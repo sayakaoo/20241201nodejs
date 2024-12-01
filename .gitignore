@@ -1,3 +1,5 @@
-".env"   # .env�𖳎�����悤�ݒ�
-node_modules
-.env 
+# .env ファイルを Git に追加しないようにする
+.env
+
+# node_modules ディレクトリを Git に追加しないようにする
+node_modules/
